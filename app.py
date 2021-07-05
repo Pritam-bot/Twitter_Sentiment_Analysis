@@ -18,10 +18,11 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 # Twitter API Keys
-consumer_key= '2yQ5So6NP0k8OTDuKEyE5W8bI'
-consumer_secret= 'RcEUgWvKMYOgwedPJwQhwUkEWDboW40AGKDcysSqdYOsmDCBXM'
-access_token= '1235877260407607296-Ata6aQEqfY1BfcK5zsD2522UwRd4e9'
-access_token_secret= 'PjnogWUP87fPwnkluOpL1qAdo8SZH05GESUauZJNo0X8f'
+#use your own API keys
+consumer_key= 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+consumer_secret= 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token= 'XXXXXXXXXXXXXXXXXXXXXXXX'
+access_token_secret= 'XXXXXXXXXXXXXXXXXXXXXXXX'
 
 # emojis defined
 emoji_pattern = re.compile("["
