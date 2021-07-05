@@ -12,3 +12,5 @@ A web app to search the keywords(Hashtags) on Twitter and analyze the sentiments
 * Tweepy
 * TextBlob
 * Bootstrap
+
+Dataset is large, so dowload from the kaggle. 
